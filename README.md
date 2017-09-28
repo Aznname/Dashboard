@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+[![Build Status](https://travis-ci.org/Aznname/Dashboard.svg?branch=master)](https://travis-ci.org/Aznname/Dashboard)
+[![Code Climate](https://codeclimate.com/github/Aznname/Dashboard/badges/gpa.svg)](https://codeclimate.com/github/Aznname/Dashboard)
+[![Issue Count](https://codeclimate.com/github/Aznname/Dashboard/badges/issue_count.svg)](https://codeclimate.com/github/Aznname/Dashboard)
